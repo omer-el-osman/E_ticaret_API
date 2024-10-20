@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\E_Ticaret_API.props" />
+</Project>

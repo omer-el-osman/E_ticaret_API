@@ -1,0 +1,17 @@
+C:\Users\tmr20\source\repos\E_Ticaret_API\MyData\bin\Debug\net8.0\MyData.deps.json
+C:\Users\tmr20\source\repos\E_Ticaret_API\MyData\bin\Debug\net8.0\MyData.runtimeconfig.json
+C:\Users\tmr20\source\repos\E_Ticaret_API\MyData\bin\Debug\net8.0\MyData.dll
+C:\Users\tmr20\source\repos\E_Ticaret_API\MyData\bin\Debug\net8.0\MyData.pdb
+C:\Users\tmr20\source\repos\E_Ticaret_API\MyData\bin\Debug\net8.0\Core.dll
+C:\Users\tmr20\source\repos\E_Ticaret_API\MyData\bin\Debug\net8.0\Core.pdb
+C:\Users\tmr20\source\repos\E_Ticaret_API\MyData\obj\Debug\net8.0\MyData.csproj.AssemblyReference.cache
+C:\Users\tmr20\source\repos\E_Ticaret_API\MyData\obj\Debug\net8.0\MyData.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tmr20\source\repos\E_Ticaret_API\MyData\obj\Debug\net8.0\MyData.AssemblyInfoInputs.cache
+C:\Users\tmr20\source\repos\E_Ticaret_API\MyData\obj\Debug\net8.0\MyData.AssemblyInfo.cs
+C:\Users\tmr20\source\repos\E_Ticaret_API\MyData\obj\Debug\net8.0\MyData.csproj.CoreCompileInputs.cache
+C:\Users\tmr20\source\repos\E_Ticaret_API\MyData\obj\Debug\net8.0\MyData.csproj.Up2Date
+C:\Users\tmr20\source\repos\E_Ticaret_API\MyData\obj\Debug\net8.0\MyData.dll
+C:\Users\tmr20\source\repos\E_Ticaret_API\MyData\obj\Debug\net8.0\refint\MyData.dll
+C:\Users\tmr20\source\repos\E_Ticaret_API\MyData\obj\Debug\net8.0\MyData.pdb
+C:\Users\tmr20\source\repos\E_Ticaret_API\MyData\obj\Debug\net8.0\MyData.genruntimeconfig.cache
+C:\Users\tmr20\source\repos\E_Ticaret_API\MyData\obj\Debug\net8.0\ref\MyData.dll
